@@ -1,0 +1,4 @@
+/* Only hide when page-subtype is "home"*/
+ytd-browse[page-subtype="home"] {
+  display: none !important;
+}
